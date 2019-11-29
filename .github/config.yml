@@ -1,0 +1,5 @@
+todo: 
+ keyword: "@todo" 
+ autoAssign: "ypyou" 
+ caseSensitive: true 
+ label: "status: todo :spiral_notepad:"
